@@ -7,7 +7,7 @@
  
 [![codewars](https://www.codewars.com/users/Wolpertingerlight/badges/large)](https://www.codewars.com/users/Wolpertingerlight)
 
-<div display="flex"   background-color: "#EAF0F6" align="center">
+<div display="flex" flex-direction:"row">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wolpertingerlight&theme=github)
 
