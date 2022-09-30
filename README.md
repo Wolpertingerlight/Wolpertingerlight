@@ -4,7 +4,7 @@
 
 
 
-<div align="center"> [![codewars](https://www.codewars.com/users/Wolpertingerlight/badges/large)](https://www.codewars.com/users/Wolpertingerlight) </div>
+<div align="center"> [![codewars](https://www.codewars.com/users/Wolpertingerlight/badges/small)](https://www.codewars.com/users/Wolpertingerlight)  </div>
 
 <div align="center"> 
 
