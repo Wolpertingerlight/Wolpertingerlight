@@ -1,4 +1,4 @@
-<style type="text/css">
+<style>
    div { 
     display: flex;
     flex-direction: row;
