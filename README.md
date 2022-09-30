@@ -1,9 +1,3 @@
-<style>
-   div { 
-    display: flex;
-    flex-direction: row;
-   }
-</style>
 
 <h1 align="center">Hi there, I'm Anastasia</a> 
 <h3 align="center"> 🖥 Computer science student</h3>
@@ -13,7 +7,7 @@
  
 [![codewars](https://www.codewars.com/users/Wolpertingerlight/badges/large)](https://www.codewars.com/users/Wolpertingerlight)
 
-<div>
+<div style="display: flex; flex-direction: row;">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wolpertingerlight&theme=solarized_dark)
 
