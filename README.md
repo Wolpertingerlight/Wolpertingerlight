@@ -7,5 +7,5 @@
  
 [![codewars](https://www.codewars.com/users/Wolpertingerlight/badges/large)](https://www.codewars.com/users/Wolpertingerlight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wolpertingerlight&theme=github)
 
